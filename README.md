@@ -5,7 +5,7 @@
 
 ## Running date_conversion.py On The Command Line/Shell
 1. Run "**python date_conversion.py [ARGUMENT 1] [ARGV...]**" on a shell or Windows terminal
-    **In case the command **python** isn't recognized, try **python3.7** instead*
+    ...**In case the command **python** isn't recognized, try **python3.7** instead*
 2. **ARGUMENT 1**: ICS file (must be within the same directory as date_conversion.py)
 3. **ARGV...:** Start Date using the format: **year, month, day** (e.g. 2020 06 15)
 
